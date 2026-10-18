@@ -1,0 +1,14 @@
+{
+  "name": "voyager-travel-images",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "photos": "node photos.mjs",
+    "illustrations": "node illustrations.mjs"
+  },
+  "dependencies": {
+    "@dicebear/collection": "9.4.2",
+    "@dicebear/core": "9.4.2",
+    "sharp": "0.35.5"
+  }
+}

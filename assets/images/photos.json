@@ -1,0 +1,1667 @@
+{
+  "destinations/kyoto.webp": {
+    "id": "7dc8035c-722e-41bf-ba06-f095c310c076",
+    "title": "The Kinkaku-ji Temple in Kyoto, Japan",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/53649608744",
+    "rejected": []
+  },
+  "trips/kyoto.webp": {
+    "id": "143860d5-1d42-444e-b154-889d50716bca",
+    "title": "Kinkaku-ji Temple Kyoto, Japan",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6083120/the-kinkaku-ji-temple-kyoto-japan",
+    "rejected": []
+  },
+  "destinations/osaka.webp": {
+    "id": "b1c52e84-0fd9-4bbc-9a4e-3ebfd7748b4e",
+    "title": "Free Osaka Castle, Japan photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5925630/photo-image-public-domain-free-city",
+    "rejected": [
+      "729fea45-a917-4bca-81e1-d6108830e3cf"
+    ]
+  },
+  "trips/osaka.webp": {
+    "id": "d7fc2dfb-e7bd-460a-b376-81c5ee635bea",
+    "title": "Free Osaka Castle, Japan photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5910085/image-public-domain-tree-free",
+    "rejected": [
+      "544d8767-9abc-40d1-87ab-713f93c535a9",
+      "bba0b8cf-305a-49cc-ad9c-d81b38db5a4a"
+    ]
+  },
+  "destinations/tokyo.webp": {
+    "id": "77de96c9-9488-48e0-ad48-bf8a850848ab",
+    "title": "Tokyo Tokyo skyline",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6075346/tokyotokyo-skyline",
+    "rejected": [
+      "7cbbc495-8034-48ed-9451-b168e91b8ad4"
+    ]
+  },
+  "destinations/hokkaido.webp": {
+    "id": "c8d305a9-84c3-4874-a166-b68c300af181",
+    "title": "Hokkaido Government Office",
+    "creator": "dlovins99",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/74001418@N00/54726326957",
+    "rejected": []
+  },
+  "trips/hokkaido.webp": {
+    "id": "41d40677-4973-4069-b32e-ea92ce41024f",
+    "title": "Hokkaido",
+    "creator": "clvs7",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/182866455@N04/55359832526",
+    "rejected": [
+      "d8b7325c-8de9-4a37-87ae-d5a2f14d5de0"
+    ]
+  },
+  "destinations/tuscany.webp": {
+    "id": "f46238de-b83f-43fd-9db9-4c39485fbf36",
+    "title": "Siena Tuscany",
+    "creator": "Skitter Photo",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/siena-tuscany-E9E804B2E0",
+    "rejected": []
+  },
+  "destinations/amalfi-coast.webp": {
+    "id": "db96ddcb-1106-45e2-a991-de94111b3466",
+    "title": "Amalfi Coast Italy",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6041873/photo-image-public-domain-green-nature",
+    "rejected": []
+  },
+  "trips/amalfi-coast.webp": {
+    "id": "c35f2c26-1de7-4129-b9ce-22d61ca870f5",
+    "title": "Free Amalfi coast Italy image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5921038/photo-image-background-public-domain-ocean",
+    "rejected": []
+  },
+  "destinations/dolomites.webp": {
+    "id": "8a34fd19-40f1-4d8e-9ac4-37310ca1e7b5",
+    "title": "Dolomites Landscape",
+    "creator": "Ales Krivec",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/dolomites-landscape-YHKAOI3IXT",
+    "rejected": []
+  },
+  "trips/dolomites.webp": {
+    "id": "c7705c09-bc25-44ad-bb56-e845bd31497e",
+    "title": "Dolomites Hiker",
+    "creator": "Ales Krivec",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/dolomites-hiker-VDZDE5CTG6",
+    "rejected": []
+  },
+  "destinations/cusco.webp": {
+    "id": "e8dfe8a5-e917-4f39-ac18-157b965a92f7",
+    "title": "Blue Hour in Cusco, Peru",
+    "creator": "johnny-cash",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/132633947@N03/19054363309",
+    "rejected": []
+  },
+  "destinations/machu-picchu.webp": {
+    "id": "e2b3a035-b16d-4f77-b3ef-f881becf3cab",
+    "title": "Free Machu Picchu image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5913364/image-public-domain-nature-mountain",
+    "rejected": []
+  },
+  "trips/machu-picchu.webp": {
+    "id": "22ff85ca-29d7-4225-9d1a-1b5497e39a9d",
+    "title": "llama green terraces Machu Picchu",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3285551/free-photo-image-machu-picchu-aerial-view-ancient",
+    "rejected": []
+  },
+  "destinations/tambopata.webp": {
+    "id": "7ef4b434-3898-4838-a473-76312d9dd6c8",
+    "title": "Yellow-spotted river turtle, Amazon wildlife",
+    "creator": "U.S. Forest Service (source)",
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/8732185/photo-image-public-domain-grass-turtle",
+    "rejected": []
+  },
+  "destinations/reykjavik.webp": {
+    "id": "c3b48c4a-86c2-41c3-a12d-a082af4eb982",
+    "title": "Reykjavík, Iceland",
+    "creator": "Pierre Lannoy",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/15631f3e5b/",
+    "rejected": []
+  },
+  "trips/reykjavik.webp": {
+    "id": "ed5450d8-131a-4b69-a0e4-ee0817af9cac",
+    "title": "Reykjavík, Iceland",
+    "creator": "Pierre Lannoy",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/629631f3e9/",
+    "rejected": []
+  },
+  "destinations/south-iceland.webp": {
+    "id": "1b7122af-0d3f-455c-8218-3a304e1709c4",
+    "title": "Skógafoss, Iceland",
+    "creator": "rootbeer667788",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/188344895@N02/52470627274",
+    "rejected": []
+  },
+  "trips/south-iceland.webp": {
+    "id": "92376cb6-3340-482f-b16e-2bf41ec0f424",
+    "title": "Skógafoss, Iceland",
+    "creator": "rootbeer667788",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/188344895@N02/52470812255",
+    "rejected": []
+  },
+  "destinations/marrakech.webp": {
+    "id": "c4a29cdc-dff5-4fa7-8e67-af470ab1a2b8",
+    "title": "Ruins of the Badi Palace in Marrakech (Morocco)",
+    "creator": "Reyes Martínez",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/57062250aa/",
+    "rejected": []
+  },
+  "trips/marrakech.webp": {
+    "id": "67f379b4-5484-4e0e-aa3e-f1db488ce75c",
+    "title": "Spice market in Marrakech (Morocco)",
+    "creator": "Reyes Martínez",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/7462250872/",
+    "rejected": []
+  },
+  "destinations/merzouga.webp": {
+    "id": "acc87dd1-0aac-4bea-b11e-6cb426719ec7",
+    "title": "Sunrise on the Merzouga Dunes",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/55228725773",
+    "rejected": []
+  },
+  "trips/merzouga.webp": {
+    "id": "367d79cd-a7f8-4dd8-932a-5e8520470bf9",
+    "title": "The Merzouga dunes of Morocco",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/55223685205",
+    "rejected": []
+  },
+  "destinations/masai-mara.webp": {
+    "id": "4f609875-6728-4fe1-9102-7ec44cc4d38f",
+    "title": "Lions Masai Mara, Kenya",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6079340/lions-the-masai-mara-kenya",
+    "rejected": []
+  },
+  "trips/masai-mara.webp": {
+    "id": "79801f63-7b26-49d2-8701-2a2f1128c4eb",
+    "title": "lone wildebeest stands shade tree",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/8812006/photo-image-plant-tree-public-domain",
+    "rejected": []
+  },
+  "destinations/serengeti.webp": {
+    "id": "3c458303-2a35-442a-8765-3e0fbc88bc00",
+    "title": "African elephant herd teh serengeti",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6034822/photo-image-public-domain-nature-family",
+    "rejected": []
+  },
+  "destinations/hanoi.webp": {
+    "id": "aa6ab70e-d744-4a5e-915c-bdc07da396cb",
+    "title": "Hồ Chí Minh Mausoleum, Hanoi, Vietnam",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/54148419708",
+    "rejected": []
+  },
+  "trips/hanoi.webp": {
+    "rejected": [
+      "a2358440-8eb1-4a2f-a9a8-ac991d600ccb"
+    ]
+  },
+  "destinations/ha-long-bay.webp": {
+    "id": "296faea5-eda1-48da-8fac-7b827f6fc4ad",
+    "title": "Ha Long Bay with boats Vietnam",
+    "creator": "bloggeratlarge",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/184934270@N04/52262894752",
+    "rejected": []
+  },
+  "destinations/hoi-an.webp": {
+    "id": "f0a88983-9617-439f-97ba-bdbc8d5d9d46",
+    "title": "Lit lamp city skyline",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3301982/free-photo-image-chinese-lantern-moon-asia",
+    "rejected": []
+  },
+  "trips/hoi-an.webp": {
+    "rejected": [
+      "5cc4fbe8-b492-4b1a-8104-ecdb063526ba"
+    ]
+  },
+  "destinations/bangkok.webp": {
+    "id": "b4fce94d-7168-4c18-9395-8173609daf4f",
+    "title": "Bangkok Thailand",
+    "creator": "Christopher Gimmer",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/bangkok-thailand-E1NZUYG3AU",
+    "rejected": []
+  },
+  "destinations/chiang-mai.webp": {
+    "id": "5d0b850c-6c43-4f32-af04-4f2d4704f78a",
+    "title": "Free temple Chiang Mai, Thailand",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5907944/image-public-domain-free-worship",
+    "rejected": []
+  },
+  "trips/chiang-mai.webp": {
+    "id": "05e5c48e-378d-4f14-a5cb-58d45509668a",
+    "title": "Dog resting on the stairs to Wat Phathat Doi Suthep temple, Chiang Mai, Thailand",
+    "creator": "Roy Tanck",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/939635a533/",
+    "rejected": [
+      "02d02c7c-bb51-48f4-9901-479b8d608454"
+    ]
+  },
+  "destinations/krabi.webp": {
+    "id": "c1fba6c7-c7f0-474d-8319-1ccde4e72c98",
+    "title": "speed thrills",
+    "creator": "SHAN DUTTA",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/65968950@N06/54092810734",
+    "rejected": []
+  },
+  "trips/krabi.webp": {
+    "id": "5612724a-3384-4825-b571-7778ec47ac72",
+    "title": "People enjoying Railay beach Krabi",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/11524279/people-enjoying-railay-beach-krabi-thailand",
+    "rejected": []
+  },
+  "destinations/queenstown.webp": {
+    "id": "0191e107-2dee-4183-9bca-f4735aa0760a",
+    "title": "Queenstown, New Zealand, sits shores",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/4024597/photo-image-ocean-nature-mountain",
+    "rejected": []
+  },
+  "trips/queenstown.webp": {
+    "id": "15809d07-7465-4f0a-8a96-d7299ed83314",
+    "title": "Queenstown New Zealand lake view",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6033240/photo-image-public-domain-nature-mountain",
+    "rejected": []
+  },
+  "destinations/fiordland.webp": {
+    "id": "db9799ae-3aab-41d6-8b2d-d99c1b4e93b2",
+    "title": "2014-02-03_17-31-13_NZ_Key_Summit_JH",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/52222973461",
+    "rejected": []
+  },
+  "trips/fiordland.webp": {
+    "id": "3ff3d170-69ef-42d6-baeb-d9743984816e",
+    "title": "2014-02-03_14-28-19_NZ_Key_Summit_JH",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/52221878707",
+    "rejected": []
+  },
+  "destinations/rotorua.webp": {
+    "id": "271e8d5d-2492-4a02-accf-d48d2ada10fc",
+    "title": "2014-01-22_19-47-21_NZ_Mitai_Maori_Village",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/52168335373",
+    "rejected": []
+  },
+  "destinations/sydney.webp": {
+    "id": "7b80e235-0755-42da-ba27-853cd5255f63",
+    "title": "Free Opera House, Sydney, Australia",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5927106/photo-image-public-domain-free-city",
+    "rejected": []
+  },
+  "destinations/great-barrier-reef.webp": {
+    "id": "eb3e15c4-90f3-4a7f-a81f-ae283ec6534f",
+    "title": "Sea Ocean",
+    "creator": "Marco Assmann",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/sea-ocean-U8ZVW48SHC",
+    "rejected": []
+  },
+  "trips/great-barrier-reef.webp": {
+    "id": "38fd6b83-8620-4412-8ab5-28f93308cf6e",
+    "title": "2025-03-26_11-35-19_PT_Lisbon_JHe_So",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/55121184660",
+    "rejected": []
+  },
+  "destinations/uluru.webp": {
+    "id": "35ecf272-3b1a-4ff0-9255-02ba72d9718d",
+    "title": "Australia Uluru (Ayers Rock)",
+    "creator": "Central Intelligence Agency (Source)",
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/4048881/photo-image-public-domain-nature-desert",
+    "rejected": []
+  },
+  "trips/uluru.webp": {
+    "id": "725fa8d3-4934-4bf0-8b47-62041fba2b86",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6047274/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/lisbon.webp": {
+    "id": "49aff412-b871-423d-9947-42b38b79f135",
+    "title": "Lisbon Portugal",
+    "creator": "Skitter Photo",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/lisbon-portugal-B9F8B43531",
+    "rejected": []
+  },
+  "trips/lisbon.webp": {
+    "id": "9a780581-0d3b-4898-8bd4-8c74df9abd7c",
+    "title": "Apartment building view Lisbon, Portugal",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3291559/free-photo-image-portugal-alley-alleyway",
+    "rejected": []
+  },
+  "destinations/porto.webp": {
+    "id": "24b94058-4133-42f2-b244-392bdcf61744",
+    "title": "Panorama of Porto, Portugal",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/53725312356",
+    "rejected": []
+  },
+  "destinations/douro-valley.webp": {
+    "id": "f25f89bc-1742-4b71-bd3d-0ba30d22ace3",
+    "title": "Landscape of Douro Valley",
+    "creator": "MyStockPhotos",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/136375272@N05/52172705421",
+    "rejected": []
+  },
+  "trips/douro-valley.webp": {
+    "id": "afc66a41-c564-4033-ad74-1b760b35a352",
+    "title": "Landscape of Douro Valley",
+    "creator": "MyStockPhotos",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/136375272@N05/52172705736",
+    "rejected": []
+  },
+  "destinations/barcelona.webp": {
+    "id": "16973248-a996-4b11-a2b5-c370eba9aa3a",
+    "title": "Barcelona Spain",
+    "creator": "Daria Nepriakhina",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/barcelona-spain-F04956C7DE",
+    "rejected": []
+  },
+  "trips/barcelona.webp": {
+    "id": "41334804-4d6a-4f88-9bbf-e1ff014ec856",
+    "title": "Casa Batlo, Barcelona, Spain",
+    "creator": "CWLITTLE",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/194287978@N06/55302027676",
+    "rejected": []
+  },
+  "destinations/seville.webp": {
+    "id": "8b5b09d6-171a-45c8-a5d4-bac56063f602",
+    "title": "Seville Spain",
+    "creator": "Daria Nepriakhina",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/seville-spain-Z3JFZN5FI8",
+    "rejected": []
+  },
+  "trips/seville.webp": {
+    "id": "013b18c9-2322-470f-8f42-2fff2901fd0f",
+    "title": "Free Spain Square Seville, Spain",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5906526/photo-image-background-public-domain-free",
+    "rejected": []
+  },
+  "destinations/granada.webp": {
+    "id": "efc0b9fb-62fc-4e39-b069-a1e8487c3d2d",
+    "title": "Views of the Alhambra and the Generalife. Granada, Spain – WorldPhotographyDay22",
+    "creator": "Reyes Martínez",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/117630724c/",
+    "rejected": []
+  },
+  "destinations/athens.webp": {
+    "id": "58a7c278-9df9-40e6-a293-3b10fd311b4f",
+    "title": "Free Parthenon, Athens, Greece photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5927072/photo-image-public-domain-sky-free",
+    "rejected": []
+  },
+  "trips/athens.webp": {
+    "id": "8ea87ed7-0b5e-45cd-96f7-e81aa36909c2",
+    "title": "Caryatids Erectheum, Acropolis, Athens, Greece",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/8718274/photo-image-public-domain-statues-pillars",
+    "rejected": []
+  },
+  "destinations/santorini.webp": {
+    "id": "6ec3d5d1-4e22-4080-b4bd-8da36bc200a4",
+    "title": "Oia, Santorini",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6079032/oia-santorini",
+    "rejected": [
+      "a51d9ee7-4741-4c4f-b1d7-204ff0c91155"
+    ]
+  },
+  "trips/santorini.webp": {
+    "id": "1341b756-cc29-47ef-973d-13723692a147",
+    "title": "Oia, Santorini",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6080555/oia-santorini",
+    "rejected": [
+      "c4e314cd-51db-4fb5-82a6-3c6b04608871"
+    ]
+  },
+  "destinations/crete.webp": {
+    "id": "f92b0941-7fa6-4f6e-8a8f-4e7554ef02d1",
+    "title": "Crete Greece",
+    "creator": "Andrzej",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/crete-greece-U2MKZR9OAS",
+    "rejected": []
+  },
+  "trips/crete.webp": {
+    "id": "6e2f0fbb-bf7f-4362-98f9-bd9a429c8d96",
+    "title": "Beach caves Matala, Crete, Greece",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3341019/free-photo-image-cc0-cliff-creative-commons",
+    "rejected": []
+  },
+  "destinations/dubrovnik.webp": {
+    "id": "cb82dfa9-e13b-4162-a42c-07110ce7617e",
+    "title": "Dubrovnik, Croatia",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6080085/dubrovnik-croatia",
+    "rejected": []
+  },
+  "trips/dubrovnik.webp": {
+    "id": "37bba2a5-dba5-458c-983e-95acdf5200c9",
+    "title": "The hills around Dubrovnik, Croatia",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6080558/the-hills-around-dubrovnik-croatia",
+    "rejected": []
+  },
+  "destinations/split.webp": {
+    "id": "321b0061-5d4d-436d-9b26-32463217a954",
+    "title": "Free Split, Croatia image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5922067/photo-image-background-public-domain-free",
+    "rejected": []
+  },
+  "destinations/tromso.webp": {
+    "id": "20f4f8cf-d0f4-40b3-935f-e439020ff4be",
+    "title": "Northern light night sky, Norway",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3297935/free-photo-image-aurora-borealis-norway",
+    "rejected": [
+      "155e9605-be5c-443c-b80c-a9f3e493d2cb"
+    ]
+  },
+  "trips/tromso.webp": {
+    "id": "3116ada7-33df-4f60-9420-c17910f08055",
+    "title": "Aurora lights Lofoten, Norway",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6041240/photo-image-lights-public-domain-nature",
+    "rejected": [
+      "c9e7c26b-9286-4186-a8b2-cfd11a2ec64a"
+    ]
+  },
+  "destinations/banff.webp": {
+    "id": "5f5fd75b-78ed-49ad-b0d4-8e46b24c1493",
+    "title": "South Sister and Moraine Lake in OR",
+    "creator": "jhvanwa",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/184765059@N02/52337247838",
+    "rejected": [
+      "098ba172-3f1e-4c59-9857-43003bcbc504"
+    ]
+  },
+  "trips/banff.webp": {
+    "id": "1124b8bb-f082-4ca1-b3aa-b15c3a9fc95c",
+    "title": "Moraine Lake surrounding forests snowy",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3303588/free-photo-image-abies-cc0-creative-commons",
+    "rejected": [
+      "1b505413-b0a1-4d1d-90e5-3d7cf396546d"
+    ]
+  },
+  "destinations/vancouver.webp": {
+    "id": "0449dd09-4d21-4a0e-994f-6526d5be1bbe",
+    "title": "Fishermen's Warf view Burrard Street",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6076903/photo-image-public-domain-sea-water",
+    "rejected": [
+      "f3e656ec-5b7c-4a35-af3a-4b03889c060d"
+    ]
+  },
+  "destinations/yosemite.webp": {
+    "id": "d5ae0d7c-d695-404e-bf69-c385b5240a1f",
+    "title": "Yosemite National Park, United States",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3291286/free-photo-image-abies-cc0-cloud-pictures-images",
+    "rejected": []
+  },
+  "trips/yosemite.webp": {
+    "id": "2e4f09d1-bfb9-4d45-93a1-159dc4e8885e",
+    "title": "signboard Yosemite Valley reads “Glacier",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3285525/free-photo-image-mountain-road-united-states-sign-california-pictures",
+    "rejected": []
+  },
+  "destinations/new-york.webp": {
+    "id": "687f622d-d08d-4718-ac52-2e91bdac75b5",
+    "title": "New York skyline",
+    "creator": "Aslam Multani",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/8476245b7f/",
+    "rejected": []
+  },
+  "trips/new-york.webp": {
+    "id": "17d5b79a-fe8f-4e0e-8b5b-c1ad5892998a",
+    "title": "New York, 1919",
+    "creator": "snelson951",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/106274066@N07/54241904894",
+    "rejected": []
+  },
+  "destinations/grand-canyon.webp": {
+    "id": "960be7f3-2413-4d65-8eec-f67e44734ffd",
+    "title": "2015-10-15_14-33-04_USA_Grand_Canyon_P_JH_pano_27_images",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/53557365322",
+    "rejected": []
+  },
+  "destinations/oaxaca.webp": {
+    "id": "22a2f540-4fee-4793-b4c3-e783fb595f04",
+    "title": "Oaxaca meat market",
+    "creator": "lisafree54",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/136594255@N06/25990708676",
+    "rejected": []
+  },
+  "destinations/monteverde.webp": {
+    "id": "b1b738a3-c0f0-4f02-b657-9d79ea10d136",
+    "title": "PURPLE-THROATED MOUNTAIN-GEM (02-06-2026) hummingbird gallery at colibre restaurant, Provincia de Puntarenas, Monteverde, costa rica -(2) male",
+    "creator": "sloalan",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/8101022@N05/55114021599",
+    "rejected": []
+  },
+  "trips/monteverde.webp": {
+    "id": "7d40d69d-52de-4201-95d0-ec7a44656f92",
+    "title": "BANANAQUIT (02-06-2026) hummingbird gallery at colibre restaurant, Provincia de Puntarenas, Monteverde, costa rica -04",
+    "creator": "sloalan",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/8101022@N05/55118486567",
+    "rejected": []
+  },
+  "destinations/patagonia.webp": {
+    "id": "0706ddcb-58d0-475f-ab79-059ac093f3dc",
+    "title": "Palena Patagonia Mountains",
+    "creator": "filipo13",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/195616326@N05/52573411652",
+    "rejected": [
+      "4ad01b83-7026-4037-80d1-bf295ac45fe2"
+    ]
+  },
+  "destinations/el-chalten.webp": {
+    "id": "ef09f713-f147-471d-8b24-a3a519814385",
+    "title": "azure lake Fitz Roy mountain",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3302955/free-photo-image-alpes-mountain-alps-nature",
+    "rejected": []
+  },
+  "destinations/el-calafate.webp": {
+    "id": "5556c404-c317-4e37-a5de-d715d7fefb55",
+    "title": "Perito Moreno - Argentina",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6076927/perito-moreno-argentina",
+    "rejected": []
+  },
+  "destinations/torres-del-paine.webp": {
+    "id": "caea35a2-2739-42d2-aaa5-299314aa4e74",
+    "title": "Torres Del Paine National Park:",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5965110/photo-image-public-domain-camping",
+    "rejected": []
+  },
+  "destinations/cape-town.webp": {
+    "id": "c03a6cd5-4505-410f-bf4d-4723790dac98",
+    "title": "2023, Cape Town, South-Africa#5455.jpg",
+    "creator": "Jim van de Burgt Photography",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/146851823@N08/54281600468",
+    "rejected": []
+  },
+  "trips/cape-town.webp": {
+    "id": "2a4b48ba-9915-4988-9205-f34bb87ba43e",
+    "title": "2023, Cape Town, South-Africa#5543.jpg",
+    "creator": "Jim van de Burgt Photography",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/146851823@N08/54280477052",
+    "rejected": []
+  },
+  "destinations/kruger.webp": {
+    "id": "5cefdfa6-f743-4e6d-a761-40298b5a36de",
+    "title": "Rhinos Kruger National Park, South",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6080987/rhinos-kruger-national-park-south-africa",
+    "rejected": []
+  },
+  "trips/kruger.webp": {
+    "id": "0f71122e-ae15-4550-b22a-356b120f82ff",
+    "title": "Brown elephant Kruger national park",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3305254/free-photo-image-south-africa-mud-elephant",
+    "rejected": []
+  },
+  "destinations/luxor.webp": {
+    "id": "7cdc24be-0dea-49af-9b75-3f2ac259b6a8",
+    "title": "Floating over the Valley of the Kings, Luxor, Egypt",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/54480104477",
+    "rejected": []
+  },
+  "trips/luxor.webp": {
+    "id": "33f0251b-5207-45bf-bf91-90433b65dd92",
+    "title": "Sunrise over Luxor, Egypt",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/53723505946",
+    "rejected": []
+  },
+  "destinations/petra.webp": {
+    "id": "5cf18783-269d-49c4-8d0c-7717bbb463b6",
+    "title": "Palace Tomb, Petra, Jordan",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/53606879587",
+    "rejected": []
+  },
+  "trips/petra.webp": {
+    "id": "2e2b40ed-4002-4e65-8c01-19e741ca58eb",
+    "title": "The Triclinium, Little Petra, Jordan",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/53612960828",
+    "rejected": []
+  },
+  "destinations/wadi-rum.webp": {
+    "id": "54bcfe39-3d71-4332-ab0f-0ac52bdd98f1",
+    "title": "Wadi Rum",
+    "creator": "Lexe-I",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/35243930@N08/52717338208",
+    "rejected": []
+  },
+  "destinations/rajasthan.webp": {
+    "id": "957960a7-e000-4566-bca4-8b0f99e25ca7",
+    "title": "The Mehrangarh Fort",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/54341967789",
+    "rejected": []
+  },
+  "destinations/jaipur.webp": {
+    "id": "8a2caa3f-a418-49ec-a0ed-9e43752b73d3",
+    "title": "Hawa Mahal, Jaipur, India",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/54390513832",
+    "rejected": []
+  },
+  "trips/jaipur.webp": {
+    "id": "4a889fb5-bc12-4b25-b3b3-943ec4a89908",
+    "title": "Free Hawa Mahal, Jaipur, India",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5922863/photo-image-public-domain-free-night",
+    "rejected": []
+  },
+  "destinations/udaipur.webp": {
+    "id": "e3622a5c-3b57-4cdc-8daf-99e862dc664e",
+    "title": "Manji ka Mandir temple, Lake Pichola, Udaipur, India",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/54672733244",
+    "rejected": []
+  },
+  "destinations/kerala.webp": {
+    "id": "f2349c75-4423-4c91-ae01-db0ff0a242b2",
+    "title": "On the shores of Chaliyar river, Kerala, India.",
+    "creator": "Bigul Malayi",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/5486425e51/",
+    "rejected": []
+  },
+  "trips/kerala.webp": {
+    "id": "cc595138-3ec1-4dc8-be38-f01653ac3c5c",
+    "title": "Fish hunting of Eagles. Kozhikode, Kerala, India.",
+    "creator": "Bigul Malayi",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/7216425e88/",
+    "rejected": []
+  },
+  "destinations/kathmandu.webp": {
+    "id": "f7999c9f-3ad2-496c-86f0-ae4a32bc6995",
+    "title": "Hindu funeral Pashupatinath Kathmandu Nepal",
+    "creator": "bloggeratlarge",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/184934270@N04/52262894727",
+    "rejected": []
+  },
+  "destinations/everest-region.webp": {
+    "id": "a4e22032-9dae-44a3-8f2d-31811fc77572",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6059712/free-public-domain-cc0-photo",
+    "rejected": [
+      "4a42c327-ca37-44d8-9c93-ad684e4f718a"
+    ]
+  },
+  "trips/everest-region.webp": {
+    "id": "db94afc7-3d0b-4c8c-a7aa-10aae80d7e57",
+    "title": "Mountain ridges silhouetted blue orange",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3300228/free-photo-image-nepal-sunrise-cc0",
+    "rejected": [
+      "290a6f83-eefb-4821-b63b-15ec6419c30f"
+    ]
+  },
+  "destinations/kandy.webp": {
+    "id": "39e024f0-f297-4df9-bc38-a1a692b2b5c3",
+    "title": "Indian women tea plantation -",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6111637/photo-image-public-domain-person-red",
+    "rejected": [
+      "e7a18e93-f75d-4922-8c44-dfeff41891ee"
+    ]
+  },
+  "destinations/bali.webp": {
+    "id": "b6b599a5-1d6c-4d17-86bd-44022ecd3dd4",
+    "title": "Free Taman Bhagawan, Bali, Indonesia",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5920298/photo-image-public-domain-free-city",
+    "rejected": []
+  },
+  "trips/bali.webp": {
+    "id": "0e172868-1c45-41cb-b583-1e21a4509212",
+    "title": "Clouds Sayan Gianyar Bali Indonesia",
+    "creator": "Remko van Dokkum",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/24034951@N00/55405628319",
+    "rejected": []
+  },
+  "destinations/provence.webp": {
+    "id": "1df9119e-8a76-4da8-b7ce-006dd0b1238e",
+    "title": "Baux-de-Provence",
+    "creator": "boklm",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/85825630@N00/51538285313",
+    "rejected": []
+  },
+  "destinations/edinburgh.webp": {
+    "id": "25c47c3e-6218-4128-89ec-785d564c4942",
+    "title": "EDINBURGH CASTLE",
+    "creator": "Herbaloid",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/18586694@N00/53409574462",
+    "rejected": [
+      "84a3ab1f-a1c0-4de5-b116-d96d61891c77",
+      "b4aff64d-2e25-474e-8215-dd9e4aea9ae7"
+    ]
+  },
+  "destinations/scottish-highlands.webp": {
+    "id": "9b21bab4-1f48-4eda-b314-3909881d8e62",
+    "title": "Highland Glen",
+    "creator": "Bill Casman",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/186343074@N02/52044601861",
+    "rejected": []
+  },
+  "destinations/london.webp": {
+    "id": "4415361b-3f1b-4682-ac41-4feeb29762fe",
+    "title": "Apartment chimney, London, United Kingdom",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6035271/photo-image-public-domain-houses-home",
+    "rejected": []
+  },
+  "destinations/wild-atlantic-way.webp": {
+    "id": "a815fe72-c912-4581-9568-393ce69f5c78",
+    "title": "Ireland Cliffs of Moher Ocean View",
+    "creator": "inspry",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/69162f65a6/",
+    "rejected": []
+  },
+  "trips/wild-atlantic-way.webp": {
+    "id": "a2967287-349e-4a17-bdc4-270dcd6b3cae",
+    "title": "Brown sheep white lamb stand",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3297006/free-photo-image-lamb-horse-ireland",
+    "rejected": []
+  },
+  "destinations/tbilisi.webp": {
+    "id": "2cc06208-d89c-4850-9b96-d75d1bbecb48",
+    "title": "Tbilisi Love You",
+    "creator": "mostafa meraji",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/142593609@N06/51924812268",
+    "rejected": []
+  },
+  "trips/tbilisi.webp": {
+    "id": "0232f176-1ba7-426f-ae22-c8e4b8e2108c",
+    "title": "Tbilisi Love You",
+    "creator": "mostafa meraji",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/142593609@N06/51925350915",
+    "rejected": []
+  },
+  "destinations/seoul.webp": {
+    "id": "cd33e7b4-6e32-4ddf-b3a0-983d572b4642",
+    "title": "Gwanghwamun Gate, Seoul, South Korea",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3298796/free-photo-image-korea-south-asia-palace",
+    "rejected": []
+  },
+  "trips/seoul.webp": {
+    "id": "664407d6-df55-4303-8f69-1d5100716ce8",
+    "title": "Dongdaemun, Seoul, South Korea",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3282524/free-photo-image-cloud-building-korea",
+    "rejected": [
+      "70addc6f-7266-4a14-b392-4017ddf5d98c"
+    ]
+  },
+  "destinations/jeju.webp": {
+    "id": "ca13b265-a085-4507-bb26-406a8b923343",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6052979/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/siem-reap.webp": {
+    "id": "8459daca-64ab-4814-9cac-d81152ecd578",
+    "title": "Bayon Temple, near Siem Reap, Cambodia",
+    "creator": "Aditya Kane",
+    "license": "CC0 1.0",
+    "source": "https://wordpress.org/photos/photo/16162b7f87/",
+    "rejected": []
+  },
+  "destinations/galapagos.webp": {
+    "id": "2ad317e3-f355-430d-841b-145713183a46",
+    "title": "Big turtle green grass",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/4025011/photo-image-animal-public-domain",
+    "rejected": [
+      "08fa78a1-ab19-4c0b-be43-a0353a309df4",
+      "9a94c552-5521-4eb2-9b1d-385b25333fd5"
+    ]
+  },
+  "destinations/quito.webp": {
+    "id": "688f44a8-4952-4732-b021-a72223834a44",
+    "title": "Centro Historico Quito Ecuador",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6080091/centro-historico-quito-ecuador",
+    "rejected": []
+  },
+  "destinations/zermatt.webp": {
+    "id": "f4ea3440-f41a-4641-ba4c-45c994b19280",
+    "title": "Zermatt, Switzerland",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3296827/free-photo-image-adventure-animal-bird",
+    "rejected": []
+  },
+  "trips/zermatt.webp": {
+    "id": "1eb18c05-cd78-4619-8b95-f9fad9fe894d",
+    "title": "Zermatt, Switzerland",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3300265/free-photo-image-basin-cc0-countryside",
+    "rejected": []
+  },
+  "hotels/hotel-01.webp": {
+    "id": "1aab5a3b-cc9e-4c88-8979-f79dea4c9e49",
+    "title": "Bed Breakfast",
+    "creator": "WDnet Studio",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/bed-breakfast-9E448HXUQL",
+    "rejected": []
+  },
+  "hotels/hotel-02.webp": {
+    "id": "255a7c3a-1ba1-4585-ac07-e5939d91794f",
+    "title": "Hotel Room",
+    "creator": "Travel Adventures",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/hotel-room-DGBAEIS339",
+    "rejected": []
+  },
+  "hotels/hotel-03.webp": {
+    "id": "f92325e8-8178-4ec8-8cef-4b8892490062",
+    "title": "Hotel Bed",
+    "creator": "Travel Adventures",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/hotel-bed-XVTMPEYKEE",
+    "rejected": []
+  },
+  "hotels/hotel-04.webp": {
+    "id": "b7aed843-ae6b-4e75-9e32-fb7a47125969",
+    "title": "Coffee Blue",
+    "creator": "Bruce Mars",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/coffee-blue-YEW4VFXSIG",
+    "rejected": []
+  },
+  "hotels/hotel-05.webp": {
+    "id": "0a0db5a9-997f-434c-b557-d38a32e68e5d",
+    "title": "Modern Room",
+    "creator": "World Travel Adventures",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/modern-room-ORRHZ1VULX",
+    "rejected": []
+  },
+  "hotels/hotel-06.webp": {
+    "id": "6d479ecc-8f1a-4ae4-9cb6-a31a69a3ff15",
+    "title": "Hotel Bed",
+    "creator": "World Travel Adventures",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/hotel-bed-OJLOIYVJ9B",
+    "rejected": []
+  },
+  "hotels/hotel-07.webp": {
+    "id": "11a8199b-eff5-4282-8ecb-5ddc59bbbccd",
+    "title": "Hotel room",
+    "creator": "sarahstierch",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/7633518@N08/55203165582",
+    "rejected": []
+  },
+  "hotels/hotel-08.webp": {
+    "id": "58de76d1-11b9-4feb-a389-f7497a5d2fc4",
+    "title": "Free hotel room photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5916632/image-public-domain-room-free",
+    "rejected": []
+  },
+  "hotels/hotel-09.webp": {
+    "id": "9adfdd63-400c-4143-bae9-0a5e05b7b905",
+    "title": "Free hotel room photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5917002/image-public-domain-room-free",
+    "rejected": []
+  },
+  "hotels/hotel-10.webp": {
+    "id": "151a73da-2c44-4c37-8b57-365a98620122",
+    "title": "Free hotel room photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5904186/photo-image-public-domain-room-free",
+    "rejected": []
+  },
+  "hotels/hotel-11.webp": {
+    "id": "1e233cb7-4edb-40d3-b7f0-3231099a6d46",
+    "title": "Hotel Bedroom",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5969890/hotel-bedroom",
+    "rejected": []
+  },
+  "hotels/hotel-12.webp": {
+    "id": "e01d08dd-4e7b-464b-8746-0d1932919a73",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6059575/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "hotels/hotel-13.webp": {
+    "id": "5da2a9d4-b559-4ddd-b715-2161fc401f11",
+    "title": "Hotel Lobby",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5969494/hotel-lobby",
+    "rejected": []
+  },
+  "hotels/hotel-14.webp": {
+    "id": "7be3c2ec-42cb-4ee7-9e32-9a4fd5f35cd6",
+    "title": "Hotel Resort",
+    "creator": "Mike Moloney",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/hotel-resort-CPFJYMYEQH",
+    "rejected": []
+  },
+  "hotels/hotel-15.webp": {
+    "id": "8cc134f3-0034-4073-b354-0c4663522cde",
+    "title": "Pool Resort",
+    "creator": "World Travel Adventures",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/pool-resort-O3ETYCN1WY",
+    "rejected": []
+  },
+  "hotels/hotel-16.webp": {
+    "id": "74b403f3-502f-44fc-af88-7afeaf009660",
+    "title": "Pool Resort",
+    "creator": "World Travel Adventures",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/pool-resort-GFB7BAKJV5",
+    "rejected": []
+  },
+  "hotels/hotel-17.webp": {
+    "id": "142efdca-4c16-4282-8dec-7642fb2288ac",
+    "title": "Hotel Buildings",
+    "creator": "Ishan @seefromthesky",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/hotel-buildings-CM5KZKES37",
+    "rejected": []
+  },
+  "hotels/hotel-18.webp": {
+    "id": "b93323a0-cda9-4b3a-993a-2ee7e60b6f8a",
+    "title": "Sunset Infinity",
+    "creator": "Matt Bango",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/sunset-infinity-HJXKE7B6E9",
+    "rejected": []
+  },
+  "hotels/hotel-19.webp": {
+    "id": "463df55d-efaa-41fd-b44d-963d4b4c33d8",
+    "title": "Pool Resort",
+    "creator": "Matt Moloney",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/pool-resort-BU0EMPYU8M",
+    "rejected": []
+  },
+  "hotels/hotel-20.webp": {
+    "id": "5a46fb07-95cc-494f-83b1-477b75542ebc",
+    "title": "Swimming pool of the Berbere Palace Hotel, Ouarzazate, Morocco",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/55228522581",
+    "rejected": []
+  },
+  "hotels/hotel-21.webp": {
+    "id": "27a1ff20-6a85-43b3-9038-f69dfa99c6e4",
+    "title": "Pool Resort",
+    "creator": "World Travel Adventures",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/pool-resort-I8WYT3EERF",
+    "rejected": []
+  },
+  "hotels/hotel-22.webp": {
+    "id": "c80aa6e6-f91e-419e-9aa9-abe418e097c2",
+    "title": "Aberystwyth Waterfront",
+    "creator": "Terry Kearney",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/24490288@N04/51321387198",
+    "rejected": [
+      "31af1164-ef68-4c2b-a0a4-1e01d4ce812b"
+    ]
+  },
+  "hotels/hotel-23.webp": {
+    "id": "30a24687-d010-4999-9fd8-5b08c31a9908",
+    "title": "The Amis Reunis. The Stone Boat. As seen in The Prisoner television show.",
+    "creator": "JOHN K THORNE",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/89918055@N05/52677727152",
+    "rejected": [
+      "97798a95-0343-4c9a-9d66-4c25d5b71077"
+    ]
+  },
+  "hotels/hotel-24.webp": {
+    "id": "eb679e06-69a7-41c7-a586-540cee4a7482",
+    "title": "Portmeirion Sea-front Terrace Incorporating the Casino and Amis Reunis",
+    "creator": "JOHN K THORNE",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/89918055@N05/52678740493",
+    "rejected": [
+      "d79a1c22-0cfa-4def-a872-38ac488a013f"
+    ]
+  },
+  "excursions/walking-tour-1.webp": {
+    "id": "245367db-0dc9-45d1-8278-28faae6d9365",
+    "title": "Night Street",
+    "creator": "Sergei Gussev",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/night-street-TBVIZWFL6Q",
+    "rejected": [
+      "de65cbcd-2533-41a2-998d-d43c6b795d98",
+      "03a11357-117b-44a2-9aaa-10c75915342e"
+    ]
+  },
+  "excursions/walking-tour-2.webp": {
+    "rejected": [
+      "cda9a4c6-52d6-416b-9815-843f22847e94",
+      "d46c453c-7ee1-452f-b343-8376263841c2",
+      "03580ba1-41c0-4e7f-9bda-37ac1f47bef0"
+    ]
+  },
+  "excursions/cooking-class-1.webp": {
+    "id": "f5c36510-f6da-4294-aa41-c1a130ab49c0",
+    "title": "Culinary Team CiTiboces Culinary Class",
+    "creator": "U.S. Army",
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/8708822/photo-image-public-domain-person-new-york",
+    "rejected": []
+  },
+  "excursions/cooking-class-2.webp": {
+    "id": "8321a85d-4124-4bde-afc1-2202fb5e5cba",
+    "title": "Culinary Team CiTiboces Culinary Class",
+    "creator": "U.S. Army",
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/8708910/photo-image-public-domain-woman-person",
+    "rejected": []
+  },
+  "excursions/market-1.webp": {
+    "id": "fea1b921-6a65-4029-9668-c02af3c0927e",
+    "title": "Jesmond Food Market - stall holder",
+    "creator": "NewcastleGateshead",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/51877986@N02/51854617384",
+    "rejected": []
+  },
+  "excursions/market-2.webp": {
+    "id": "0682bd7c-d78d-4619-afa6-c125f6d1d75c",
+    "title": "Vegetable Stall",
+    "creator": "Bruce Mars",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/vegetable-stall-KZ19NV9MVY",
+    "rejected": [
+      "a5bd7f70-a6a0-4909-869e-5b977c23475e"
+    ]
+  },
+  "excursions/cycling-1.webp": {
+    "rejected": [
+      "c97e139d-d99c-4020-8778-f14f68921ef8"
+    ]
+  },
+  "excursions/cycling-2.webp": {
+    "id": "c2d40976-2aaa-4e9f-83e0-4a0ed8b5c2f7",
+    "title": "Long distance path",
+    "creator": "Oneterry AKA Terry Kearney",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/24490288@N04/54502955653",
+    "rejected": []
+  },
+  "excursions/boat-1.webp": {
+    "id": "71f3f991-1c47-48c1-9d66-780b9293aa25",
+    "title": "Pacific sunset 8 - IMG_3998 - 1",
+    "creator": "iezalel7williams",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/181765699@N08/51363768156",
+    "rejected": []
+  },
+  "excursions/boat-2.webp": {
+    "id": "95fdb56c-3bbb-4d48-9244-b10a991dfc21",
+    "title": "Sailbot Boat",
+    "creator": "Negative Space",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/sailbot-boat-80AGW3RWVH",
+    "rejected": []
+  },
+  "excursions/museum-1.webp": {
+    "id": "c77a2546-b173-4c7f-89f0-426132b41e42",
+    "title": "Architecture Building",
+    "creator": "Junhan Foong",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/architecture-building-6C56SYMV34",
+    "rejected": [
+      "b2971fae-f97c-4649-b941-da1799b6b912"
+    ]
+  },
+  "excursions/kayak-1.webp": {
+    "id": "80d59c75-e8e5-4ad4-8e39-8e4d54a47386",
+    "title": "Kayak Lake",
+    "creator": "Aaron Burden",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/kayak-lake-171KGI3VPL",
+    "rejected": []
+  },
+  "excursions/kayak-2.webp": {
+    "id": "81d3d68d-4e1c-4637-bdba-cd492f7853be",
+    "title": "Kayak Lake",
+    "creator": "Patrick Fore",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/kayak-lake-DTHNKC77UG",
+    "rejected": []
+  },
+  "excursions/wine-1.webp": {
+    "id": "9c11c045-2906-4a77-a46c-7d0f3e1d0c66",
+    "title": "Dancing Crow Vineyards wines",
+    "creator": "sarahstierch",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/7633518@N08/54060686724",
+    "rejected": []
+  },
+  "excursions/wine-2.webp": {
+    "id": "5e5178db-4fbf-442e-badd-17db50a2f67d",
+    "title": "2014-02-01_17-18-55_NZ_Gibbston_Valley Winery_JH",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/52161358683",
+    "rejected": []
+  },
+  "excursions/balloon-1.webp": {
+    "id": "1f1bb199-0ccb-4b54-aba2-d25de881bec7",
+    "title": "Hot Air Balloons in Colorado (2010)",
+    "creator": "David Kitto",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/43371449@N00/51634709235",
+    "rejected": []
+  },
+  "excursions/balloon-2.webp": {
+    "id": "987979d5-06fc-4ac4-98bc-d9b47ff7665b",
+    "title": "Hot Air Balloons in Colorado (2010)",
+    "creator": "David Kitto",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/43371449@N00/51634065658",
+    "rejected": []
+  },
+  "excursions/snorkel-1.webp": {
+    "id": "c20d9b31-d764-4563-90d0-cf712984af27",
+    "title": "Snorkeling in Bora Bora",
+    "creator": "grandmasterhuon",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/202390793@N05/54416828958",
+    "rejected": []
+  },
+  "trips/tokyo.webp": {
+    "id": "7c69ebc1-21e7-4f5c-a369-f558359d3bef",
+    "title": "Futuristic architecture in Tokyo skyline",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6078979/tokyo",
+    "rejected": []
+  },
+  "trips/galapagos.webp": {
+    "id": "64a682d0-96ae-4767-afbd-4b108c651512",
+    "title": "abingdon island giant tortoise [abingdonii], alcedo volcano giant tortoise [vandenburghi], cape berkeley giant tortoise [becki], cerro azul giant tortoise, charles island giant tortoise, chatham island giant tortoise [chathamensis]",
+    "creator": "henrya",
+    "license": "CC0 1.0",
+    "source": "https://www.inaturalist.org/photos/378409151",
+    "rejected": [
+      "59f82847-3216-4798-a459-f0f84b4e2005"
+    ]
+  },
+  "destinations/kansai.webp": {
+    "id": "20a44499-85de-4b80-bf53-553da217181c",
+    "title": "Tōdai-ji Temple, Nara, Japan",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/53641693574",
+    "rejected": []
+  },
+  "destinations/florence.webp": {
+    "id": "1ff8ddc2-3496-4960-b5ef-705fe7fe7906",
+    "title": "Florence, Italy",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5903527/florence-italy-free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "trips/florence.webp": {
+    "id": "7923f072-d259-4ecf-b483-4def2f3e3321",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6062801/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/siena.webp": {
+    "id": "d00956cd-bfcc-4921-994e-95434116c38b",
+    "title": "Piazza del Campo, Siena",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6073536/piazza-del-campo-siena",
+    "rejected": []
+  },
+  "destinations/rome.webp": {
+    "id": "102e8b11-b82c-4858-b882-609200f50d8e",
+    "title": "Colosseum Rome",
+    "creator": "Chantel Lucas",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/colosseum-rome-X42222FEL1",
+    "rejected": []
+  },
+  "trips/rome.webp": {
+    "id": "228bdb35-9514-48cd-b827-0850a857a3e1",
+    "title": "Colosseum",
+    "creator": "jacquemart",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/26602223@N00/55230953741",
+    "rejected": []
+  },
+  "destinations/fes.webp": {
+    "id": "8a82d080-8b09-431a-9cce-0419892d94a5",
+    "title": "Panoramic View of the Medina of Fes",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/55225983281",
+    "rejected": []
+  },
+  "destinations/zanzibar.webp": {
+    "id": "65790314-32df-40e8-a975-c3265866f06c",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6045357/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/lofoten.webp": {
+    "id": "e5057d21-b218-4768-8d95-0f2dbfce51d9",
+    "title": "Aurora lights Lofoten, Norway",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6041250/photo-image-lights-public-domain-nature",
+    "rejected": []
+  },
+  "trips/lofoten.webp": {
+    "id": "3f5f2771-4383-4324-a63c-28accde61171",
+    "title": "Norway Lofoten",
+    "creator": "Alina",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/norway-lofoten-XRXDK4YLFZ",
+    "rejected": []
+  },
+  "destinations/yucatan.webp": {
+    "id": "74bf788b-4f01-4d12-abdb-b2a24003b9a3",
+    "title": "Free Chichen Itza, Mexico photo",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5905522/photo-image-public-domain-free-worship",
+    "rejected": []
+  },
+  "trips/yucatan.webp": {
+    "id": "d782299e-68ff-47bb-9c98-8d4395d8bc8c",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6056266/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/arenal.webp": {
+    "id": "1f6468ba-308e-4ed4-b185-47b4364d4ef0",
+    "title": "2020-03-10_09-29-35_Costa_Rica_-_Poas_K70_JH_pano-17 images",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/53632340555",
+    "rejected": []
+  },
+  "destinations/atacama.webp": {
+    "id": "2a35eff0-66a9-4bcc-9b73-d8b1c727d553",
+    "title": "Valle de la Luna, Chile",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5934366/valle-luna-chile",
+    "rejected": []
+  },
+  "destinations/sossusvlei.webp": {
+    "id": "2ce6beea-8d18-4d10-93ee-c02cd4706dbc",
+    "title": "Deadvlei Hiking Trail, Namibia",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3297244/free-photo-image-desert-cc0-creative-commons",
+    "rejected": []
+  },
+  "trips/sossusvlei.webp": {
+    "id": "d91a4333-4bd5-43ca-bfd0-211a08c3a290",
+    "title": "Free Deadvlei image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5922207/photo-image-light-public-domain-trees",
+    "rejected": []
+  },
+  "destinations/etosha.webp": {
+    "id": "07837dfd-ffe2-4e60-b2ea-b6256f602389",
+    "title": "Zebras standing grassy plain Namibia",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/3305756/free-photo-image-savannah-zebra-zebra-wildlife",
+    "rejected": []
+  },
+  "destinations/cairo.webp": {
+    "id": "b792b7f4-4a93-405b-84b4-a955603dd550",
+    "title": "Giza Pyramids, Cairo",
+    "creator": "Mustang Joe",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/63234672@N04/53723848834",
+    "rejected": []
+  },
+  "destinations/galle.webp": {
+    "id": "343f20a1-1de3-4581-af95-fa3b44d5f806",
+    "title": "Hummanaya Sri Lanka",
+    "creator": "musixcom.mp",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/202768939@N06/55126741096",
+    "rejected": []
+  },
+  "destinations/komodo.webp": {
+    "id": "d57e392b-cbc8-4295-9ab3-4809e32881d1",
+    "title": "Komodo Dragon",
+    "creator": "alfy777",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/198507664@N02/52966485634",
+    "rejected": [
+      "5fea548d-f194-4fa2-b2ca-76e5907da9eb",
+      "c94bfd66-3ace-46e5-8bbd-1db59f08c7f0"
+    ]
+  },
+  "trips/komodo.webp": {
+    "id": "1992dd7d-2009-4af1-b829-820b2f800d85",
+    "title": "101 Komodo Dragon (6)",
+    "creator": "The Fun Chronicles",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/196406308@N04/52892653967",
+    "rejected": [
+      "d57e392b-cbc8-4295-9ab3-4809e32881d1"
+    ]
+  },
+  "destinations/paris.webp": {
+    "id": "45ab71f4-f5e3-4359-860d-6b0e6e4f047a",
+    "title": "Pont Neuf, Paris",
+    "creator": "Pierre Blaché",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/141783395@N02/52026506165",
+    "rejected": [
+      "399fa262-11b4-401e-941f-e16e9aaf9870",
+      "55ac695e-18b3-44b9-aaa2-3b524f563f01"
+    ]
+  },
+  "trips/paris.webp": {
+    "id": "30776ec3-e0ca-42da-ada9-89a4434612b9",
+    "title": "Paris-Galeries Lafayette",
+    "creator": "www.wbayer.com - www.facebook.com/wbayercom",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/76319087@N08/52225249778",
+    "rejected": [
+      "45ab71f4-f5e3-4359-860d-6b0e6e4f047a"
+    ]
+  },
+  "destinations/istanbul.webp": {
+    "id": "a80316f6-cd73-4011-8929-86ab7c62e5e7",
+    "title": "Free Hagia Sophia image",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/5912522/free-hagia-sophia-image-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/cappadocia.webp": {
+    "id": "d20e2dd7-fe40-4852-952b-8596cdeb87a7",
+    "title": "Hot air balloon sky",
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6040297/photo-image-public-domain-balloon-sky",
+    "rejected": []
+  },
+  "trips/cappadocia.webp": {
+    "id": "2e17cf5d-0abe-4c6e-abfd-38dc81e745e8",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6059752/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/lucerne.webp": {
+    "id": "6331178b-9fae-42c8-b827-0a44a333c7f7",
+    "title": "Lucerne, Switzerland",
+    "creator": "crash71100",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/152930510@N02/51989951542",
+    "rejected": [
+      "796e8284-2c48-43db-a99d-ba0290051dc6",
+      "acf1bdc9-6202-4459-a9c5-cf73f7491bac",
+      "d509f6c5-1084-40bc-9b91-ed2dd175863b",
+      "434b2d31-6a82-4c07-a5e0-7c0d4f235ca1",
+      "4023ef58-fa66-489a-9d09-781a80a4aca0"
+    ]
+  },
+  "destinations/nairobi.webp": {
+    "id": "4a91b4ae-e25e-48c1-b6ae-a99d815cbb11",
+    "title": "animals_mammal_giraffes_and_oryx_011",
+    "creator": "Juhele_CZ",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/96541566@N06/51754128324",
+    "rejected": [
+      "a377e609-b8fa-45a6-b364-2e6ba44651fd",
+      "90c5eb12-2365-4fe2-930b-c3d6e0c6deeb"
+    ]
+  },
+  "destinations/buenos-aires.webp": {
+    "id": "a835682c-5393-40a2-b4df-613ebc3c2ad8",
+    "title": "Puerto Norte Buenos Aires Haciendo cuentas ésta foto es la 999. Falta una y ya 😀",
+    "creator": "K.B.L. Luccia-1.000 pic",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/84891494@N02/49169384656",
+    "rejected": []
+  },
+  "destinations/mendoza.webp": {
+    "id": "c8f6a9ff-0d49-4923-875e-4ff10c319ec2",
+    "title": "Andes and Aconcagua mountain",
+    "creator": "Luxbao",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/61013352@N07/52391652920",
+    "rejected": []
+  },
+  "destinations/dublin.webp": {
+    "id": "47b1709e-c1a5-4033-a303-68da42dc6fa3",
+    "title": "Trinitycollege Dublin",
+    "creator": "Dave Meier",
+    "license": "CC0 1.0",
+    "source": "https://stocksnap.io/photo/trinitycollege-dublin-1755E9DB9C",
+    "rejected": []
+  },
+  "destinations/kazbegi.webp": {
+    "id": "3865a15a-248c-466f-b4b3-0a42eb0b74ad",
+    "title": null,
+    "creator": null,
+    "license": "CC0 1.0",
+    "source": "https://www.rawpixel.com/image/6063577/free-public-domain-cc0-photo",
+    "rejected": []
+  },
+  "destinations/gobi-desert.webp": {
+    "id": "688fd35e-eb70-4e3e-8a48-b8f652b391eb",
+    "title": "2009, Mongolia - 1100654.jpg",
+    "creator": "Jim van de Burgt Photography",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/146851823@N08/54582263766",
+    "rejected": []
+  },
+  "trips/gobi-desert.webp": {
+    "id": "2b7b2b98-0699-4dd7-8a5c-07a23b80b8cc",
+    "title": "2009, Mongolia - 1100625.jpg",
+    "creator": "Jim van de Burgt Photography",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/146851823@N08/54582578130",
+    "rejected": []
+  },
+  "excursions/museum-2.webp": {
+    "id": "afaa050e-0bed-47e5-8a8e-d4706766ff5a",
+    "title": "Penrhyn Castle",
+    "creator": "Oneterry AKA Terry Kearney",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/24490288@N04/53967904208",
+    "rejected": []
+  },
+  "excursions/snorkel-2.webp": {
+    "id": "d8a5297f-96f0-46e4-99a7-0ca1fd34b2c3",
+    "title": "Beach on Tioman Island with Renggis Island, Malaysia",
+    "creator": "Wloski",
+    "license": "CC0 1.0",
+    "source": "https://www.flickr.com/photos/56022513@N04/52729308366",
+    "rejected": []
+  }
+}
