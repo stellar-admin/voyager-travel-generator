@@ -66,7 +66,7 @@ dotnet ef migrations add InitialCreate --project "src/$project" --output-dir Dat
 dotnet build --nologo --verbosity quiet
 
 echo "Committing"
-git init --quiet --initial-branch main
+git init --quiet --initial-branch master
 git -c core.safecrlf=false add --all
 git commit --quiet --message "Create the Voyager Travel app"
 
