@@ -14,7 +14,7 @@ Use it to get a clean, realistic starting point whenever you need one, for examp
 
 The script uses the .NET CLI for everything it can:
 
-1. `dotnet new globaljson`, `gitignore`, `sln` and `mvc --auth Individual` (SQLite is the template's default).
+1. `dotnet new gitignore`, `sln` and `mvc --auth Individual` (SQLite is the template's default).
 2. `dotnet new tool-manifest` and `dotnet tool install dotnet-ef`, matching the template's EF Core version.
 3. `dotnet add package Bogus` for the seed data.
 4. Copies `overlay/` over the template: the domain model, `ApplicationUser`, `ApplicationDbContext`, the seeder, `Program.cs` and the app's README.
@@ -23,7 +23,7 @@ The script uses the .NET CLI for everything it can:
 
 The generated app creates and seeds `app.db` on its first run. See the generated README for the seeded accounts.
 
-Requires the .NET SDK pinned in `generate.sh`, plus `git` and `perl`.
+Requires a .NET 10 SDK, plus `git` and `perl`. The generated app has no `global.json`, so it builds with whichever .NET 10 SDK is installed.
 
 ## Change the data model
 

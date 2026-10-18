@@ -1,7 +1,9 @@
 using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.FileProviders;
 using VoyagerTravel.Data;
 using VoyagerTravel.Data.Seeding;
+using VoyagerTravel.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -17,6 +19,7 @@ builder.Services.AddDefaultIdentity<ApplicationUser>(options => options.SignIn.R
     .AddRoles<IdentityRole>()
     .AddEntityFrameworkStores<ApplicationDbContext>();
 builder.Services.AddControllersWithViews();
+builder.Services.AddSingleton<IImageStore, LocalImageStore>();
 
 var app = builder.Build();
 
@@ -39,6 +42,16 @@ else
 }
 
 app.UseHttpsRedirection();
+
+// Serves uploaded images, which MapStaticAssets doesn't because they don't exist at build time.
+var uploads = LocalImageStore.GetRoot(app.Environment);
+Directory.CreateDirectory(uploads);
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(uploads),
+    RequestPath = LocalImageStore.RequestPath,
+});
+
 app.UseRouting();
 
 app.UseAuthorization();

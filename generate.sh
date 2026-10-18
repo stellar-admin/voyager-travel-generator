@@ -20,7 +20,6 @@ for arg in "$@"; do
 done
 
 target="$(realpath -m "$target")"
-sdk_version="10.0.400"
 project="VoyagerTravel"
 app="$target/src/$project"
 
@@ -43,7 +42,6 @@ mkdir -p "$target"
 cd "$target"
 
 echo "Creating the solution"
-dotnet new globaljson --sdk-version "$sdk_version" --roll-forward latestFeature > /dev/null
 dotnet new gitignore > /dev/null
 dotnet new sln --name "$project" > /dev/null
 dotnet new mvc --auth Individual --name "$project" --output "src/$project" > /dev/null
@@ -60,6 +58,7 @@ cp -R "$seed_dir/overlay/." "$target/"
 cp -R "$seed_dir/assets/images" "$app/wwwroot/images"
 perl -i -pe 's/IdentityUser/ApplicationUser/g; $_ .= "\@using VoyagerTravel.Data\r\n" if $. == 1' "$app/Views/Shared/_LoginPartial.cshtml"
 printf '\n# SQLite database, created and seeded on first run\n*.db\n*.db-shm\n*.db-wal\n' >> .gitignore
+printf '\n# Uploaded images, saved by LocalImageStore\n/src/%s/uploads/\n' "$project" >> .gitignore
 
 echo "Creating the initial migration"
 dotnet ef migrations add InitialCreate --project "src/$project" --output-dir Data/Migrations | grep -iE "error|warn" || true
