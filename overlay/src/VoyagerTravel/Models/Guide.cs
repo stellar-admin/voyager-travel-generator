@@ -25,7 +25,6 @@ public class Guide
     [MaxLength(500)]
     public string? PhotoUrl { get; set; }
 
-    [MaxLength(2000)]
     public string? Bio { get; set; }
 
     public DateOnly HiredOn { get; set; }

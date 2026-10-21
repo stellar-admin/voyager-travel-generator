@@ -32,6 +32,8 @@ The model lives in `src/VoyagerTravel/Models` and the `ApplicationDbContext` in 
 - **Suppliers:** suppliers, accommodations and amenities, activities, supplier invoices.
 - **Staff:** Identity users (`ApplicationUser`) in the Admin, Agent and Viewer roles. Bookings can be assigned to an agent.
 
+Destination, trip and itinerary day descriptions and guide bios hold HTML: paragraphs, headings, lists, bold text and quotes.
+
 Images are in `src/VoyagerTravel/wwwroot/images`; see `CREDITS.md` there for photo sources and licences.
 
 ## Uploaded images

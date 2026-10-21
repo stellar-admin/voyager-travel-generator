@@ -121,28 +121,6 @@ public static class DatabaseSeeder
             ],
         };
 
-        private static readonly Dictionary<TripType, string[]> ItineraryTitles = new()
-        {
-            [TripType.Adventure] = ["Trek to the High Pass", "Summit Day", "Rest & Recovery", "Ridge Walk", "Into the Wilderness", "Glacier Day", "River Crossing", "Valley Descent"],
-            [TripType.Cultural] = ["Old Town Discovery", "Temples & Traditions", "Meet the Artisans", "Museum Morning", "Village Homestay", "Palace Visit", "Local Festival", "Market Day"],
-            [TripType.Wellness] = ["Morning Yoga & Spa", "Beach Day", "Island Excursion", "Slow Morning", "Meditation Retreat", "Sunset Swim", "Free Day"],
-            [TripType.Cruise] = ["Day at Sea", "Island Landing", "Snorkelling Stop", "Harbour Town", "Sunrise Sail", "Captain's Dinner"],
-            [TripType.CityBreak] = ["Neighbourhood Walk", "Museum Highlights", "Food Tour", "Day Trip", "Free Day to Explore", "Rooftop Evening"],
-            [TripType.Wildlife] = ["Dawn Game Drive", "Walking Safari", "Bird Watching", "Boat Safari", "Tracking Day", "Night Drive", "Hide Afternoon"],
-            [TripType.Culinary] = ["Market & Cooking Class", "Vineyard Visit", "Street Food Crawl", "Farm to Table", "Tasting Menu Evening", "Producer Visits"],
-        };
-
-        private static readonly Dictionary<Climate, string> ClimateNotes = new()
-        {
-            [Climate.Tropical] = "Expect warm temperatures year-round, with a wetter season that keeps everything lush and green.",
-            [Climate.Arid] = "Days are hot and dry and nights can be surprisingly cold, so pack layers.",
-            [Climate.Temperate] = "Spring and autumn bring mild weather and the best light for exploring.",
-            [Climate.Mediterranean] = "Summers are hot and dry; the shoulder seasons are ideal for walking and sightseeing.",
-            [Climate.Continental] = "Summers are warm and winters are crisp, often with snow.",
-            [Climate.Polar] = "Long summer days give way to dark winters lit by the northern lights.",
-            [Climate.Alpine] = "Mountain weather changes quickly, so come prepared for sun, wind and snow on the same day.",
-        };
-
         private readonly Faker faker = CreateFaker("en");
         private readonly Dictionary<string, Faker> localeFakers = [];
         private readonly HashSet<string> emails = new(StringComparer.OrdinalIgnoreCase);
@@ -249,13 +227,17 @@ public static class DatabaseSeeder
                     Country = Country(seed.CountryCode),
                     ParentDestination = seed.ParentSlug is null ? null : destinationsBySlug[seed.ParentSlug],
                     Summary = seed.Summary,
-                    Description = $"{seed.Summary}\n\n{ClimateNotes[seed.Climate]}",
                     HeroImageUrl = $"/images/destinations/{seed.Slug}.webp",
                     Climate = seed.Climate,
                     IsFeatured = seed.IsFeatured,
                 };
                 destinationsBySlug[seed.Slug] = destination;
                 Destinations.Add(destination);
+            }
+
+            foreach (var destination in Destinations)
+            {
+                destination.Description = Descriptions.Destination(destination, Destinations.Where(child => child.ParentDestination == destination).ToList());
             }
 
             Tags.AddRange(Catalog.Tags.Select(name => new TripTag { Name = name }));
@@ -284,13 +266,7 @@ public static class DatabaseSeeder
                     Email = UniqueEmail(faker.Internet.Email(firstName, lastName, "voyager.travel")),
                     Phone = Truncate(localeFaker.Phone.PhoneNumber(), 30),
                     PhotoUrl = $"/images/avatars/guides/guide-{i:00}.webp",
-                    Bio = $"{firstName} has been leading small-group trips for {years} years and speaks {string.Join(", ", languages.Select(language => language.Name))}. "
-                        + faker.PickRandom(
-                            "Off the trail you'll find them behind a camera.",
-                            "They never travel without a good novel and a pocket notebook.",
-                            "Ask them about the best street food in town — they always know.",
-                            "They trained as a naturalist and love spotting wildlife.",
-                            "They grew up in a family of mountain guides."),
+                    Bio = Descriptions.GuideBio(firstName, years, languages, faker.PickRandom(Descriptions.GuideStories), i),
                     HiredOn = today.AddDays(-faker.Random.Int(180, 365 * years + 180)),
                     IsActive = faker.Random.Bool(0.9f),
                     Languages = languages,
@@ -422,7 +398,6 @@ public static class DatabaseSeeder
                         TripType.Wellness => 14,
                         _ => 16,
                     },
-                    Description = $"{seed.Pitch}\n\nYour trip includes {seed.DurationDays - 1} nights of hand-picked accommodation, an expert local guide and all transport between destinations. {ClimateNotes[destination.Climate]}",
                     CoverImageUrl = $"/images/trips/{seed.DestinationSlug}.webp",
                     IsPublished = faker.Random.Bool(0.9f),
                     Tags = Tags.Where(tag => seed.Tags.Contains(tag.Name)).ToList(),
@@ -449,26 +424,24 @@ public static class DatabaseSeeder
 
                 tripDetails[trip] = (seed, stays);
                 AddItinerary(trip, destination, stays);
+                trip.Description = Descriptions.Trip(seed, trip, stays, ItineraryDays.Where(day => day.Trip == trip).ToList());
             }
         }
 
         private void AddItinerary(Trip trip, Destination destination, List<(Accommodation Accommodation, int Nights)> stays)
         {
             var nightAccommodation = stays.SelectMany(stay => Enumerable.Repeat(stay.Accommodation, stay.Nights)).ToList();
-            var titles = faker.Random.Shuffle(ItineraryTitles[trip.TripType]).ToList();
+            var plans = faker.Random.Shuffle(Descriptions.ItineraryPlans[trip.TripType]).ToList();
 
             for (var day = 1; day <= trip.DurationDays; day++)
             {
                 var accommodation = day <= nightAccommodation.Count ? nightAccommodation[day - 1] : null;
+                var movingTo = accommodation is not null && day > 1 && accommodation != nightAccommodation[day - 2] ? accommodation : null;
                 var (title, description) = day switch
                 {
-                    1 => ($"Arrival in {destination.Name}", "Meet your guide and fellow travellers at the hotel, followed by a welcome dinner."),
-                    _ when day == trip.DurationDays && day > 1 => ("Departure", "Breakfast at the hotel, then the trip ends after check-out. Transfers to the airport are available."),
-                    _ => (titles[(day - 2) % titles.Count], faker.PickRandom(
-                        $"A full day exploring with your guide, with time to wander {destination.Name} on your own.",
-                        "An early start pays off with the best light and the fewest crowds.",
-                        "A slower day with an optional excursion in the afternoon.",
-                        "Travel on to the next stop, with plenty of stops for photos along the way.")),
+                    1 => ($"Arrival in {destination.Name}", Descriptions.ArrivalDay(destination, accommodation)),
+                    _ when day == trip.DurationDays && day > 1 => ("Departure", Descriptions.DepartureDay()),
+                    _ => (plans[(day - 2) % plans.Count].Title, Descriptions.ItineraryDay(plans[(day - 2) % plans.Count], faker.PickRandom(Descriptions.ItineraryTips), movingTo)),
                 };
                 var meals = accommodation is null ? Meals.None : Meals.Breakfast;
                 meals |= day == 1 || faker.Random.Bool(0.3f) ? Meals.Dinner : Meals.None;
@@ -478,7 +451,7 @@ public static class DatabaseSeeder
                 {
                     Trip = trip,
                     DayNumber = day,
-                    Title = day > 1 && day < trip.DurationDays && day - 2 >= titles.Count ? $"{title} (Part {(day - 2) / titles.Count + 1})" : title,
+                    Title = day > 1 && day < trip.DurationDays && day - 2 >= plans.Count ? $"{title} (Part {(day - 2) / plans.Count + 1})" : title,
                     Description = description,
                     Accommodation = accommodation,
                     Meals = meals,
