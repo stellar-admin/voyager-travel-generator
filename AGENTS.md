@@ -1,6 +1,6 @@
-# Voyager Travel seed
+# Voyager Travel generator
 
-This repository generates the Voyager Travel app; read `README.md` first. The generated app (by default `../voyager-travel`) is a separate repository with its own history.
+This repository generates the Voyager Travel app; read `README.md` first. The generated app (by default `../voyager-travel-sample`) is a separate repository with its own history.
 
 - The generated app must stay a plain ASP.NET Core MVC app with Identity, EF Core on SQLite and seed data. Do not add admin screens, UI libraries or references to any particular admin framework, here or in the generated app.
 - Prefer the .NET CLI in `generate.sh`; use the overlay only for files the CLI cannot produce.

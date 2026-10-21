@@ -4,11 +4,11 @@
 #
 #   ./generate.sh [target] [--force]
 #
-# The target defaults to ../voyager-travel. An existing target is only replaced with --force.
+# The target defaults to ../voyager-travel-sample. An existing target is only replaced with --force.
 set -euo pipefail
 
 seed_dir="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
-target="$seed_dir/../voyager-travel"
+target="$seed_dir/../voyager-travel-sample"
 force=false
 
 for arg in "$@"; do

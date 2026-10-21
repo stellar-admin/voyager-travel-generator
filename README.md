@@ -1,4 +1,4 @@
-# Voyager Travel seed
+# Voyager Travel generator
 
 Generates the Voyager Travel app from scratch: the stock ASP.NET Core MVC template with Identity on SQLite, plus a domain model for a fictitious small-group tour operator, a seeded database and bundled images.
 
@@ -7,9 +7,9 @@ Use it to get a clean, realistic starting point whenever you need one, for examp
 ## Generate the app
 
 ```bash
-./generate.sh                         # creates ../voyager-travel
-./generate.sh ../voyager-travel-try-2 # or any other directory
-./generate.sh --force                 # deletes and recreates an existing target
+./generate.sh                            # creates ../voyager-travel-sample
+./generate.sh ../voyager-travel-sample-2 # or any other directory
+./generate.sh --force                    # deletes and recreates an existing target
 ```
 
 The script uses the .NET CLI for everything it can:

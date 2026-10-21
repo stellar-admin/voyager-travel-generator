@@ -116,7 +116,7 @@ async function search(query) {
   lastRequest = Date.now();
   const url = new URL("https://api.openverse.org/v1/images/");
   url.search = new URLSearchParams({ q: query, license: "cc0", category: "photograph", mature: "false", page_size: "20" }).toString();
-  const response = await fetch(url, { headers: { "User-Agent": "voyager-travel-seed/1.0" } });
+  const response = await fetch(url, { headers: { "User-Agent": "voyager-travel-generator/1.0" } });
   if (!response.ok) {
     throw new Error(`Openverse ${response.status} for "${query}": ${await response.text()}`);
   }
@@ -154,7 +154,7 @@ function relevant(result, query) {
 }
 
 async function convert(candidate, file) {
-  const response = await fetch(candidate.url, { headers: { "User-Agent": "voyager-travel-seed/1.0" }, signal: AbortSignal.timeout(60000) });
+  const response = await fetch(candidate.url, { headers: { "User-Agent": "voyager-travel-generator/1.0" }, signal: AbortSignal.timeout(60000) });
   if (!response.ok) {
     return false;
   }
